@@ -6,3 +6,5 @@ Magnitude-based pruning sets a threshold and drops weights below it in every tra
 We can reduce the data precision by mapping weights to discrete levels, e.g., 1.01, 1.02, 0.99 are set to 1. Using this technique the model can use low bit-width data representation and as a result we can reduce the area and energy cost of the model. 
 ## Data-centric Approach
 In the inference UI, users can paste a YouTube URL to transcribe the video. We think those videos are well-labeled (accurate subtitles) and we can use those data to train our model. With more users and data, we can train a better model which will bring us more users and data.
+
+#Deployment
