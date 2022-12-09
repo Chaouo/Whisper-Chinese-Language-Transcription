@@ -9,6 +9,7 @@ In the inference UI, users can paste a YouTube URL to transcribe the video. We t
 
 ### Training Results
 
+![Alt text](https://github.com/Chaouo/Titanic_serverless_ML/blob/main/image/training.png)
 
 
 
