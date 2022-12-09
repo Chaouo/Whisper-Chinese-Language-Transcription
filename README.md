@@ -17,5 +17,5 @@ In the inference UI, users can paste a YouTube URL to transcribe the video. We t
 
 https://huggingface.co/spaces/qisan/whisper-small-CN-YouTube-video-transcribe
 
-![Alt text](https://github.com/Chaouo/Titanic_serverless_ML/blob/main/data/Screenshot 2022-12-09 at 13.39.03.png)
+![Alt text](https://github.com/Chaouo/Titanic_serverless_ML/blob/main/image/Whisper_UI)
 
