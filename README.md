@@ -7,4 +7,7 @@ We can reduce the data precision by mapping weights to discrete levels, e.g., 1.
 ## Data-centric Approach
 In the inference UI, users can paste a YouTube URL to transcribe the video. We think those videos are well-labeled (accurate subtitles) and we can use those data to train our model. With more users and data, we can train a better model which will bring us more users and data.
 
-#Deployment
+# Deployment
+
+https://huggingface.co/spaces/qisan/whisper-small-CN-YouTube-video-transcribe
+
